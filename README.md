@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Will Theard, Full Stack Software developer
 
 <!--
 **will3685/will3685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
